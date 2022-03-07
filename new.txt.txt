@@ -1,0 +1,5 @@
+Lastname: Korchineli,
+Name: Varvara,
+Age: 36,
+Number_of_pets: 0,
+Desired_salary: 1000$

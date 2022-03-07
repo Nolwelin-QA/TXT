@@ -1,0 +1,5 @@
+Favorit_movie: The Lord of the Rings,
+Favorit_series: Breaking Bad,
+Favorit_food: Barbecue,
+Favorit_season: Late spring,
+Want_to_visit: Iceland
